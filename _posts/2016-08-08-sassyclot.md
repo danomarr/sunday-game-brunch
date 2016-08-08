@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: Sassyclot
 ---
 ![](http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=43806103)  
@@ -10,4 +10,3 @@ title: Sassyclot
 **Background:** Sailor  
   
 Insert backstory or anything you might like
-
