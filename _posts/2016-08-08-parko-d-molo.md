@@ -10,5 +10,6 @@ category:
 **Class:** Fighter  
 **Race:** Human  
 **Background:** Sailor  
+**Trinket:** Clothes stolen from a scarecrow
   
 Insert backstory or anything you might like
