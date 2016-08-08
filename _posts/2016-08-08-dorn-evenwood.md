@@ -10,5 +10,6 @@ category:
 **Class:** Wizard  
 **Race:** Human  
 **Background:** Urchin  
+**Trinket:** A music box that plays by itself whenever someone holding it dances  
   
 Insert backstory or anything you might like
