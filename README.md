@@ -1,1 +1,1 @@
-# Sunday D&D Brunch
+# Sunday Game Brunch
