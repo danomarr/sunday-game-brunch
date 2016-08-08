@@ -338,6 +338,9 @@ table {
   .menu a {
     margin:0 0 0 10px;
     }
+.listing {
+  margin-bottom: 50px;
+}
 
 .listing .item {
   display:block;
