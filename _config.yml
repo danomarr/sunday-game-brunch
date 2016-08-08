@@ -1,6 +1,5 @@
 baseurl: '/sunday-game-brunch/'
 permalink: pretty
-markdown: rdiscount
 prose:
   rooturl: '_posts'
   siteurl: 'http://dennerkrans.github.io/sunday-game-brunch/'
