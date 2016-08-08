@@ -104,16 +104,16 @@ a {
   }
   a:hover {
     color:#197987;
-    }
+  }
   a.active {
-    color:#516066;
-    }
+    text-decoration: underline;
+  }
   .rss {
     color:#d4d7d9;
-    }
-    .rss:hover {
-      color:#516066;
-      }
+  }
+  .rss:hover {
+    color:#516066;
+  }
 
 abbr {
   border-bottom:1px dotted #000;
@@ -320,7 +320,7 @@ table {
 ------------------------------------------------------- */
 .heading,
 .header {
-  padding:20px 0;
+  padding:40px 0;
   }
   .header .title {
     font-size:15px;
@@ -500,8 +500,28 @@ Details: http://www.positioniseverything.net/easyclearing.html
     background-image:url(img/sprite@2x.png);
     background-size:240px 240px;
     }
+  .header-menu {
+    display: flex;
+    justify-content: center;
+    }
   }
 
 .container {
   margin-bottom: 50px;
 }
+
+.header-bg {
+  background-image: url("http://www.ambient-mixer.com/images_template/d/8/e/d8eaa542e240b59f9b9f7cdeca3f9561_full.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.header-title,
+.menu a {
+  color: #fff;
+}
+
+.header-title {
+  text-align: center;
+}
+

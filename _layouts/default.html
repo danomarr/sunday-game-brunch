@@ -13,12 +13,15 @@ title: 'This is my Site Title'
 </head>
 <body>
   <div class='container'>
-    <div class='col12 clearfix'>
-      <div class='header col6 margin3 pad4h'>
-        <div class='clearfix col12'>
+    <div class='header-bg col12 clearfix'>
+      <div class='header col10 margin1 pad4h'>
+        <div class='clearfix col6'>
+          <a href='{{site.baseurl}}/'><h1 class='header-title'>Sunday Game Brunch</h1></a>
+        </div>
+        <div class='header-menu clearfix col6'>
           <div class='menu fr'>
             <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Wiki</a>
-            <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
+            <a class='{% if page.url == "/about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
             <a href='//github.com/dennerkrans/sunday-game-brunch'>Fork on GitHub</a>
           </div>
           <!--<h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>-->
