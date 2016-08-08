@@ -10,6 +10,6 @@ category:
 **Class:** Sorcerer  
 **Race:** Tiefling  
 **Background:** Sailor 
-**Trinket:** A lock that opens when blood is dripped in its keyhole.  
+**Trinket:** A lock that opens when blood is dripped in its keyhole  
   
 Insert backstory or anything you might like
