@@ -363,6 +363,7 @@ table {
 img {
   display: block;
   max-width: 100%;
+  margin: 0 auto;
 }
 
 /* Columns
@@ -498,3 +499,6 @@ Details: http://www.positioniseverything.net/easyclearing.html
     }
   }
 
+.container {
+  margin-bottom: 50px;
+}
