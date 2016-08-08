@@ -1,4 +1,4 @@
-baseurl: '/sunday-game-brunch/'
+baseurl: '/sunday-game-brunch'
 permalink: pretty
 prose:
   rooturl: '_posts'
