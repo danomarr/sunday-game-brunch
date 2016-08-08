@@ -3,7 +3,6 @@ layout: blog
 published: false
 title: Character creation
 ---
-## Character creation
 ![](http://forum.gruppolucenera.net/Public/forum/avatar/Master/200610616333_disasterc.jpg)
 When creating your character you can be any race (human, elf, dwarf, halfling, gnome, half-orc, half-elf, dragonborn, tiefling) and any class from the Players Handbook. The starting stats will be a standard point buy, use the app. So the highest possible starting stat is 15 before racial bonuses.
 
