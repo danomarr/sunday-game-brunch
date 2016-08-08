@@ -1,4 +1,4 @@
-baseurl:
+baseurl: '/sunday-game-brunch/'
 permalink: pretty
 markdown: rdiscount
 prose:
