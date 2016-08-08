@@ -9,7 +9,7 @@ tags:
   - important
 ---
 ![](http://forum.gruppolucenera.net/Public/forum/avatar/Master/200610616333_disasterc.jpg)
-When creating your character you can be any race (human, elf, dwarf, halfling, gnome, half-orc, half-elf, dragonborn, tiefling) and any class from the Players Handbook. The starting stats will be a standard point buy, use the app. So the highest possible starting stat is 15 before racial bonuses.
+When creating your character you can be any race (human, elf, dwarf, halfling, gnome, half-orc, half-elf, dragonborn, tiefling) and any class from the Players Handbook. The starting stats will be a standard point buy, use the [this](http://1-dot-encounter-planner.appspot.com/point-buy-calculator.html). So the highest possible starting stat is 15 before racial bonuses.
 
 Choose a background from the Players Handbook, and I would like you to use these backgrounds as a framework for writing down your characters own story. If you can't find a background that you like modify one, or create a new one that feels great to you. I can then help you decide which proficiency bonuses and such your character should have 😄
 
