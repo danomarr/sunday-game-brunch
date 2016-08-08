@@ -13,6 +13,8 @@ prose:
           label: "Add Category"
           placeholder: "Choose Category"
           options:
+            - name: "General information"
+              value: "general information"
             - name: "Players"
               value: "players"
             - name: "NPC"
