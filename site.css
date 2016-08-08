@@ -44,7 +44,7 @@ body,
 input,
 textarea {
   color:#516066;
-  font:15px/1.67 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font:16px/1.67 'Helvetica Neue', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing:antialiased;
   }
 *, *:after, *:before {
@@ -82,7 +82,7 @@ h3 {
   }
 
 h4, h5 {
-  font-size:15px;
+  font-size:16px;
   margin-bottom:0;
   line-height:1.67em;
   }
@@ -323,7 +323,7 @@ table {
   padding:40px 0;
   }
   .header .title {
-    font-size:15px;
+    font-size:16px;
     line-height:1.67;
     font-weight:bold;
     margin:0;
@@ -336,6 +336,7 @@ table {
   text-align:right;
   }
   .menu a {
+    font-size: 15px;
     margin:0 0 0 10px;
     }
 .listing {
