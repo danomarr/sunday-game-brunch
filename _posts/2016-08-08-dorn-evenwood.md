@@ -6,6 +6,9 @@ category:
   - Players
 ---
 **Player:** Emil
+
 **Class:** Wizard
+
 **Race:** Human
+
 **Background:** Urchin
