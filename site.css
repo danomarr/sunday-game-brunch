@@ -360,6 +360,10 @@ table {
   color:#d4d7d9;
   font-weight:normal;
   }
+img {
+  display: block;
+  max-width: 100%;
+}
 
 /* Columns
 ------------------------------------------------------- */
