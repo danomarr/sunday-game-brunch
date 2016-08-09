@@ -93,6 +93,16 @@ prose:
           element: "text"
           label: "Race"
           value: ""
+      - name: "background"
+        field:
+          element: "text"
+          label: "Background"
+          value: ""
+      - name: "trinket"
+        field:
+          element: "text"
+          label: "Trinket"
+          value: ""
       - name: "portrait"
         field:
           element: "text"
