@@ -280,6 +280,10 @@ table {
     text-align:left;
     vertical-align:top;
     border-bottom:1px solid #d5d5d5;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    
     }
   th {
     font-weight:bold;
