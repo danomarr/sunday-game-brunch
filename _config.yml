@@ -13,7 +13,7 @@ prose:
           value: "blog"
       - name: "category"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Add Category"
           placeholder: "Choose Category"
           options:
@@ -37,8 +37,6 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Characters"
-              value: "characters"
             - name: "Magic"
               value: "magic"
             - name: "Undead"
@@ -55,6 +53,47 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+    _posts/character:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "character"
+      - name: "character-name"
+        field:
+          element: "text"
+          label: "Character name"
+          value: ""
+      - name: "player"
+        field:
+          element: "text"
+          label: "Player"
+          value: ""
+      - name: "class"
+        field:
+          element: "text"
+          label: "Class"
+          value: ""
+      - name: "race"
+        field:
+          element: "text"
+          label: "Race"
+          value: ""
+      - name: "portrait"
+        field:
+          element: "text"
+          label: Portrait
+          placeholder: "Paste url to portrait image"
+          value: ""
+      - name: "category"
+        field:
+          element: "select"
+          label: "Add Category"
+          placeholder: "Choose Category"
+          options:
+            - name: "NPC"
+              value: "NPC"
+            - name: "Player"
+              value: "Player"
     _posts/static:
       - name: "layout"
         field:
