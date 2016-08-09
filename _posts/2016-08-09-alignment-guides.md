@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: Alignment guides
 category:
   - General information
