@@ -11,6 +11,11 @@ prose:
         field:
           element: "hidden"
           value: "blog"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          value: "false"
       - name: "category"
         field:
           element: "select"
@@ -58,6 +63,11 @@ prose:
         field:
           element: "hidden"
           value: "character"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          value: "false"
       - name: "title"
         field:
           element: "text"
