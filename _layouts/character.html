@@ -7,7 +7,7 @@ section: blog
   <div class='heading'>
     <h1>{{page.character-name}}</h1>
   </div>
-  <div class='col12 portrait'>
+  <div class='col12 character-portrait'>
     {% if page.portrait %}
       {% if page.portrait contains 'http' %}
         {% capture url %}{{page.portrait}}{% endcapture %}
@@ -19,7 +19,7 @@ section: blog
       <img src='https://cdn1.iconfinder.com/data/icons/UltraBuuf/512/Zangief.png' alt='placeholder-portrait' />
     {% endif %}
   </div>
-  <div class='col12'>
+  <div class='col12 character-specs'>
     {% if page.player %}
       <p><strong>Player: </strong>{{ page.player }}</p>
     {% endif %}
