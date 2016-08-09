@@ -530,6 +530,11 @@ Details: http://www.positioniseverything.net/easyclearing.html
   margin-bottom: 20px;
 }
 
-.character-specs > p {
-  margin-bottom: 0;
+
+
+.character-specs {
+  margin-bottom: 20px;
+  p {
+    margin-bottom: 0;
+  }
 }
