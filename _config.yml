@@ -7,6 +7,16 @@ prose:
   media: 'media'
   metadata:
     _posts:
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Post Layout"
+          placeholder: "Choose Layout"
+          options:
+            - name: "Article"
+              value: "blog"
+            - name: "Character"
+              value: "character"
       - name: "category"
         field:
           element: "multiselect"
@@ -27,10 +37,6 @@ prose:
               value: "Players"
             - name: "Quests"
               value: "Quests"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "title"
         field:
           element: "text"
@@ -39,7 +45,7 @@ prose:
       - name: "splash"
         field:
           element: "text"
-          label: "Splash image"
+          label: "Splash image or Portrait"
           value: ""
       - name: "tags"
         field:
