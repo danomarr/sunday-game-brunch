@@ -1,0 +1,30 @@
+---
+layout: default
+section: blog
+---
+
+
+
+<div class='listing col6 pad4h margin3'>
+  <div class='heading'>
+    <h1>{{page.character-name}}</h1>
+  </div>
+  <div class='col6 portrait'>
+    {% if page.portrait %}
+      {% if page.portrait contains 'http' %}
+        {% capture url %}{{page.portrait}}{% endcapture %}
+      {% else %}
+        {% capture url %}{{site.baseurl}}{{page.portrait}}/{% endcapture %}
+      {% endif %}
+      <img src='{{url}}' alt='' />
+    {% endif %}
+  </div>
+  <div class='col6'>
+    {% if page.player %}
+      <p><strong>Player: </strong>page.player</p>
+    {% endif %}
+  </div>
+  <div class='prose'>
+    {{content}}
+  </div>
+</div>
