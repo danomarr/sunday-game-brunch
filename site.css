@@ -534,7 +534,8 @@ Details: http://www.positioniseverything.net/easyclearing.html
 
 .character-specs {
   margin-bottom: 20px;
-  p {
-    margin-bottom: 0;
-  }
+}
+
+.characther-specs > p {
+  margin-bottom: 0;
 }
