@@ -15,7 +15,7 @@ prose:
         field:
           element: "checkbox"
           label: "Publish"
-          value: "false"
+          value: false
       - name: "category"
         field:
           element: "select"
@@ -67,7 +67,7 @@ prose:
         field:
           element: "checkbox"
           label: "Publish"
-          value: "false"
+          value: false
       - name: "title"
         field:
           element: "text"
