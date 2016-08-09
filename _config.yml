@@ -9,14 +9,8 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "select"
-          label: "Post Layout"
-          placeholder: "Choose Layout"
-          options:
-            - name: "Article"
-              value: "blog"
-            - name: "Character"
-              value: "character"
+          element: "hidden"
+          value: "blog"
       - name: "category"
         field:
           element: "multiselect"
@@ -37,16 +31,6 @@ prose:
               value: "Players"
             - name: "Quests"
               value: "Quests"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image or Portrait"
-          value: ""
       - name: "tags"
         field:
           element: "multiselect"
@@ -61,6 +45,16 @@ prose:
               value: "undead"
             - name: "Important"
               value: "important"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Splash image"
+          value: ""
     _posts/static:
       - name: "layout"
         field:
