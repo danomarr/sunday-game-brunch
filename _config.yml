@@ -7,18 +7,16 @@ prose:
   media: 'media'
   metadata:
     _posts:
-      - name: "test"
+      - name: "multi"
         field:
-          - name: "multi"
-            field:
-              element: "multiselect"
-              label: "Multi"
-              placeholder: "Multi"
-              options:
-                - name: "One"
-                  value: "one"
-                - name: "Two"
-                  value: "two"
+          element: "multiselect"
+          label: "Multi"
+          placeholder: "Multi"
+          options:
+            - name: "One"
+              value: "one"
+            - name: "Two"
+              value: "two"
       - name: "category"
         field:
           element: "multiselect"
