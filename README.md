@@ -8,8 +8,8 @@ For all of y'all collaborators, players, and fellow brunch eaters here is how we
   4. You will somewhere here find a project folder with the name 'sunday-game-brunch'.
   5. You go into said project folder.
   6. You will be 'attacked' by a folder called 'character' and some general .md files (like '2016-08-09-alignment-guides.md').
-    6a. If you want to create a post about a character (NPC or player) go into the 'character' folder and click 'New file'.
-    6b. If you want to post about something a bit more general, like the specs for that 'Bag o' holding' you found last time just click 'New file'.
+  ⋅⋅6a. If you want to create a post about a character (NPC or player) go into the 'character' folder and click 'New file'.
+  ⋅⋅6b. If you want to post about something a bit more general, like the specs for that 'Bag o' holding' you found last time just click 'New file'.
   7. When you post something don't forget to check the metadata tag (underneath 'preview', and above 'settings') because if you're in the character folder you can insert name, race, etc. And in the general one there are other options you're free to use. But always remember to pick a ***'Category'*** no matter what you do because otherwise it won't render properly in the wiki.
   8. Save/Commit you're additions/changes and celebrate with a ***highfive***
   
