@@ -9,6 +9,8 @@ race: Hill dwarf
 background: Acolyte
 trinket: Clothes stolen from a scarecrow
 category: Player
+portrait: >-
+  https://s-media-cache-ak0.pinimg.com/originals/40/45/af/4045afcf97c3c58d12805ec9d762ca41.png
 ---
 It was the day of my 50th birthday and I had been told by the elders that I was finally going to leave the temple of Berronar Truesilver. It was there I ever since I grew my first beard had lived and learned all that I know today. 
 Most of my fellow scholars had long ago left on adventures but I found assurance and joy in the great stone halls. Also I was never able to finish that damn final test to earn the symbol of Berronar and become true Faenor to the Mother of Safety. 
