@@ -1,4 +1,6 @@
 ---
+http://67.media.tumblr.com/ac22eb08a9fd44003e2e0a4f884e1641/tumblr_o1llmtXcyd1sjxgryo1_r2_1280.jpg
+
 layout: character
 published: true
 title: Sassyclot
