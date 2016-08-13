@@ -10,7 +10,7 @@ background: Sailor
 trinket: A lock that opens when blood is dripped in its keyhole
 category: Player
 portrait: >-
-http://67.media.tumblr.com/ac22eb08a9fd44003e2e0a4f884e1641/tumblr_o1llmtXcyd1sjxgryo1_r2_1280.jpg
+  http://67.media.tumblr.com/ac22eb08a9fd44003e2e0a4f884e1641/tumblr_o1llmtXcyd1sjxgryo1_r2_1280.jpg
 ---
 As far as I remember, I have always possessed magic. The magic is in my blood, inherited by my demonic ancestors. I have always felt it pulsating through my veins like a force yet to be discovered. It wasn't until my late tenant years, during a tragedy at sea, that it took form and showed itself to me.
 
